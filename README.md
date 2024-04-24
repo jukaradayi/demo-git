@@ -6,3 +6,6 @@ This is a readme for the repository demo_git
 
 No installation required... 
 
+## Usage
+
+Simply read the README... Avoid the REAMDE. 
