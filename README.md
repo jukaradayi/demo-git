@@ -1,11 +1,14 @@
-# DEMO GIT
+DEMO GIT
+========
 
 * This is a readme for the repository demo_git
 
-## Installation 
+Installation 
+------------
 
 * No installation required... 
 
-## Usage
+Usage
+-----
 
 * Simply read the README... Avoid the REAMDE. 
